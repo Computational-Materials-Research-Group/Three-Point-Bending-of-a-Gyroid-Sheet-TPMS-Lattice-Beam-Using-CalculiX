@@ -1,0 +1,1 @@
+# Three-Point-Bending-of-a-Gyroid-Sheet-TPMS-Lattice-Beam-Using-CalculiX
